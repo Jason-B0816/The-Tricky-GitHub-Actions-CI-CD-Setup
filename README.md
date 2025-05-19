@@ -89,7 +89,8 @@ npx cypress open
 
 * Render Deploy Hooks: https://api.render.com/deploy/srv-d0g44hadbo4c73b0g7pg?key=zZjPWcz-hhc
 
-##  License 
+---
+## 📝License 
 This project is license under Apache License 
 
 ---
@@ -101,3 +102,4 @@ Have questions or feedback? Reach out!
 * GitHub: https://github.com/Jason-B0816
 
 * Email: jbrooks200800@gmail.com
+---
